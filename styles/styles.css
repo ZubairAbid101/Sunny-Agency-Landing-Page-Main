@@ -11,7 +11,7 @@ header {
 /* Header Background Image Section Styles Start Here */
 .header-img {
   height: 1200px;
-  background-image: url("/images/desktop/image-header.jpg");
+  background-image: url("../images/desktop/image-header.jpg");
   background-position: bottom;
   background-repeat: no-repeat;
   display: flex;
@@ -21,14 +21,14 @@ header {
 @media screen and (max-width: 750px) {
   .header-img {
     height: 700px;
-    background-image: url("/images/mobile/image-header.jpg");
+    background-image: url("../images/mobile/image-header.jpg");
     background-position: bottom;
   }
 }
 @media screen and (max-width: 375px) {
   .header-img {
     height: 600px;
-    background-image: url("/images/mobile/image-header.jpg");
+    background-image: url("../images/mobile/image-header.jpg");
     background-position: bottom;
   }
 }
@@ -374,50 +374,50 @@ li {
 /* Grid Item Styles Start Here */
 /* Grid Section background Image Styles Start Here */
 .transform-bg-img {
-  background-image: url("/images/desktop/image-transform.jpg");
+  background-image: url("../images/desktop/image-transform.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 @media screen and (max-width: 375px) {
   .transform-bg-img {
-    background-image: url("/images/mobile/image-transform.jpg");
+    background-image: url("../images/mobile/image-transform.jpg");
   }
 }
 
 .stand-out-img-bg {
-  background-image: url("/images/desktop/image-stand-out.jpg");
+  background-image: url("../images/desktop/image-stand-out.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 @media screen and (max-width: 375px) {
   .stand-out-img-bg {
-    background-image: url("/images/mobile/image-stand-out.jpg");
+    background-image: url("../images/mobile/image-stand-out.jpg");
   }
 }
 
 .graphic-design-bg-img {
-  background-image: url("/images/desktop/image-graphic-design.jpg");
+  background-image: url("../images/desktop/image-graphic-design.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 @media screen and (max-width: 375px) {
   .graphic-design-bg-img {
-    background-image: url("/images/mobile/image-graphic-design.jpg");
+    background-image: url("../images/mobile/image-graphic-design.jpg");
   }
 }
 
 .photography-bg-img {
-  background-image: url("/images/desktop/image-photography.jpg");
+  background-image: url("../images/desktop/image-photography.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 @media screen and (max-width: 375px) {
   .photography-bg-img {
-    background-image: url("/images/mobile/image-photography.jpg");
+    background-image: url("../images/mobile/image-photography.jpg");
   }
 }
 
@@ -560,28 +560,28 @@ li {
 }
 
 .milk-bottles-bg-img {
-  background-image: url("/images/desktop/image-gallery-milkbottles.jpg");
+  background-image: url("../images/desktop/image-gallery-milkbottles.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .orange-bg-img {
-  background-image: url("/images/desktop/image-gallery-orange.jpg");
+  background-image: url("../images/desktop/image-gallery-orange.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .cone-bg-img {
-  background-image: url("/images/desktop/image-gallery-cone.jpg");
+  background-image: url("../images/desktop/image-gallery-cone.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .sugar-cubes-bg-img {
-  background-image: url("/images/desktop/image-gallery-sugarcubes.jpg");
+  background-image: url("../images/desktop/image-gallery-sugarcubes.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
